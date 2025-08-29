@@ -163,7 +163,7 @@
     <section id="nop-bai">
         <h2>Nộp Bài</h2>
         <p>Sau khi hoàn thành, các nhóm nộp bài thuyết trình (PowerPoint hoặc video) và bài luận ngắn bằng cách điền thông tin và tải file lên biểu mẫu dưới đây. Đảm bảo tên file theo định dạng: "TenNhom_Chude_WebQuest". Hạn nộp: Cuối tuần thứ 2 kể từ ngày bắt đầu. Nếu có vấn đề kỹ thuật, liên hệ giáo viên để được hỗ trợ.</p>
-        <iframe src="https://forms.gle/w5nJ9CBd4Mh8vcyv5" frameborder="0"></iframe>
+        <iframe src="<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSd7Vo8Zn6C-78NplLMaqFdyrdGawpxGZF0AxKh6Mw2fvj50yw/viewform?embedded=true" width="640" height="378" frameborder="0" marginheight="0" marginwidth="0">Đang tải…</iframe>" frameborder="0"></iframe>
     </section>
 
     <section id="ket-luan">

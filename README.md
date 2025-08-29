@@ -68,7 +68,7 @@
 
     <header>
         <h1>WebQuest: Vẻ Đẹp Khuất Lấp Của Người Phụ Nữ</h1>
-        <p>Chủ đề: Vẻ đẹp khuất lấp của người phụ nữ qua hai tác phẩm "Chiếc thuyền ngoài xa" của Nguyễn Minh Châu và "Vợ nhặt" của Kim Lân</p>
+        <p>Chủ đề: Vẻ đẹp khuất lấp của người phụ nữ: Người đàn bà hàng chài trong tác phẩm "Chiếc thuyền ngoài xa" của Nguyễn Minh Châu và nhân vật Thị trong tác phẩm "Vợ nhặt" của Kim Lân</p>
     </header>
 
     <nav>
@@ -163,7 +163,7 @@
     <section id="nop-bai">
         <h2>Nộp Bài</h2>
         <p>Sau khi hoàn thành, các nhóm nộp bài thuyết trình (PowerPoint hoặc video) và bài luận ngắn bằng cách điền thông tin và tải file lên biểu mẫu dưới đây. Đảm bảo tên file theo định dạng: "TenNhom_Chude_WebQuest". Hạn nộp: Cuối tuần thứ 2 kể từ ngày bắt đầu. Nếu có vấn đề kỹ thuật, liên hệ giáo viên để được hỗ trợ.</p>
-        "<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSd7Vo8Zn6C-78NplLMaqFdyrdGawpxGZF0AxKh6Mw2fvj50yw/viewform?embedded=true" width="640" height="378" frameborder="0" marginheight="0" marginwidth="0">Đang tải…</iframe>" 
+        "https://docs.google.com/forms/d/e/1FAIpQLSd7Vo8Zn6C-78NplLMaqFdyrdGawpxGZF0AxKh6Mw2fvj50yw/viewform?embedded=true" width="640" height="378" frameborder="0" marginheight="0" marginwidth="0" 
     </section>
 
     <section id="ket-luan">

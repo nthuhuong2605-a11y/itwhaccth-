@@ -121,7 +121,6 @@
             <li><a href="https://ntthnue.edu.vn/hinh-tuong-nguoi-phu-nu-qua-cac-tac-pham-van-hoc-919" target="_blank">Hình tượng người phụ nữ qua các tác phẩm văn học (bao gồm người đàn bà hàng chài) từ ĐH Sư phạm Hà Nội</a></li>
             <li><a href="http://nguvan.hnue.edu.vn/Nghi%25C3%25AAn-c%25E1%25BB%25A9u/V%25C4%2583n-h%25E1%25BB%258Dc-Vi%25E1%25BB%2587t-Nam-hi%25E1%25BB%2587n-%25C4%2591%25E1%25BA%25A1i/p/chiec-thuyen-ngoai-xa-va-thong-diep-nghe-thuat-cua-nguyen-minh-chau-521" target="_blank">Chiếc thuyền ngoài xa và thông điệp nghệ thuật từ Khoa Ngữ văn HNUE</a></li>
             <li><a href="https://khcb.tnus.edu.vn/chi-tiet/3778-Vo-nhat-Phan-tich-nhan-vat-Thi-trong-truyen" target="_blank">Phân tích nhân vật Thị trong "Vợ nhặt" từ Khoa Khoa học Cơ bản TNUS</a></li>
-            <li><a href="https://atschool.vn/blogs/mon-van/nhung-goc-nhin-moi-me-trong-tac-pham-chiec-thuyen-ngoai-xa?srsltid=AfmBOoqcrk1y9LZu-m0maNtUBJcNW_K9_IIUC48xWeYyyABDQATDiTg3>Góc nhìn mới mẻ chiếc thuyền ngoài xa</a></li>
             <li><a href="https://dethidaihoc-van2014.blogspot.com/2013/11/cam-nhan-nguoi-dan-ba-ctnx.html" target="_blank">Cảm nhận về người đàn bà hàng chài từ blog Đề thi Đại học Văn</a></li>
             <li><a href="http://van-hay.blogspot.com/2015/01/phan-tich-nhan-vat-thi-trong-tac-pham.html" target="_blank">Phân tích nhân vật Thị trong "Vợ nhặt" từ blog Văn Hay</a></li>
         </ul>

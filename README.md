@@ -1,4 +1,4 @@
-<Link webquest nhóm 4>
+<Link webquest>
 <html lang="vi">
 <head>
     <meta charset="UTF-8">

@@ -124,8 +124,6 @@
             <li><a href="https://khcb.tnus.edu.vn/chi-tiet/4723-Phan-tich-ve-dep-tinh-nguoi-va-niem-hy-vong-vao-cuoc-song-o-cac-nhan-vat-trong-truyen-ngan-Vo-nhat" target="_blank">Phân tích vẻ đẹp tình người trong "Vợ nhặt" từ Khoa Khoa học Cơ bản TNUS</a></li>
             <li><a href="https://dethidaihoc-van2014.blogspot.com/2013/11/cam-nhan-nguoi-dan-ba-ctnx.html" target="_blank">Cảm nhận về người đàn bà hàng chài từ blog Đề thi Đại học Văn</a></li>
             <li><a href="http://van-hay.blogspot.com/2015/01/phan-tich-nhan-vat-thi-trong-tac-pham.html" target="_blank">Phân tích nhân vật Thị trong "Vợ nhặt" từ blog Văn Hay</a></li>
-            <li><a href="https://atschool.vn/blogs/mon-van/nhung-goc-nhin-moi-me-trong-tac-pham-chiec-thuyen-ngoai-xa?srsltid=AfmBOoqcrk1y9LZu-m0maNtUBJcNW_K9_IIUC48xWeYyyABDQATDiTg3</a></li>
-            <li><a href="https://ctujsvn.ctu.edu.vn/index.php/ctujsvn/article/view/1730/2089?fbclid=IwY2xjawMeN6FleHRuA2FlbQIxMABicmlkETFoV0J5bXdGaGVWOUg5Q1BzAR6V40iAiNI66XJnZpNrHMFnio_O5facGHBZJ02qWgEa9XmKbZYAWUt3r4TyBg_aem__oiEqfrnDKp_D3dE5MkfbQ</a></li>
         </ul>
         <p>Các em có thể tìm thêm tài nguyên học thuật đáng tin cậy từ các tạp chí văn học hoặc thư viện trực tuyến của các trường đại học.</p>
     </section>
